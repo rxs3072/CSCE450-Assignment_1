@@ -1,0 +1,10 @@
+CSCE450-Assignment_1
+====================
+The SebastaScanner.py scans the input file for toxens and lexems, the content of input file is : (sum+47)/total
+
+place the input file in the directory where the SebastaScanner.py file is present and run the code in eclipse
+
+the program divides the file contents into identifiers,operators,digits and prints the value of the tokens and the lexemes
+
+
+
